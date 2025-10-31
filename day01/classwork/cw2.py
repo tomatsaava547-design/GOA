@@ -2,3 +2,10 @@
 
 name1 = "GOA"
 print(name1)
+
+name2 = 10
+print(name2)
+
+name3 = 10.12
+print =(name3)
+
