@@ -1,4 +1,0 @@
-#შექმენით დროში მოგზაურობის პროგრამა, მომხარებელს შემოატანინეთ ასაკი, და დაპრინტეთ 10 წელში რამდენის იქნება იგი
-
-user_YEAR = int(input(" enter your  year:"))
-print (" i am " + str(user_YEAR) + "year old" + str(-user_YEAR + 10))
