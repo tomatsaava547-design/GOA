@@ -4,7 +4,7 @@ Number = 24
 
 number = 10
 
-print("Number > number")
+print( Number > number )
 
 age = 13
 
