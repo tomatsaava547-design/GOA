@@ -5,5 +5,4 @@
 arr = ["revazi", 3.14, True, 33, "ana", None, 50, False, "python", [1, 2]]
 index1 = int(input("შეიყვანეთ პირველი ინდექსი: "))
 index2 = int(input("შეიყვანეთ მეორე ინდექსი: "))
-arr[index2] = "new element"
 print(arr)
