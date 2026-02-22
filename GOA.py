@@ -8,8 +8,9 @@ screen.bgcolor("white")
 t = turtle.Turtle()
 t.speed(10)
 t.color("black" )
-t.pensize(5)
+t.pensize
 
+print(nika.upper())
 
 t.penup()
 t.goto(0, -50)   
